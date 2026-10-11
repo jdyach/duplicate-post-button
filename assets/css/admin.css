@@ -1,0 +1,15 @@
+/* ==========================================================================
+   Duplicate Post Button — Admin Styles
+   ========================================================================== */
+
+/**
+ * Highlight the Duplicate row action link so it's easy to spot.
+ */
+.row-actions .duplicate a {
+    color: #2271b1;
+}
+
+.row-actions .duplicate a:hover {
+    color: #135e96;
+    text-decoration: underline;
+}
