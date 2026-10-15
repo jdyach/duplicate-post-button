@@ -2,6 +2,10 @@
 
 A lightweight WordPress plugin that adds a one-click **Duplicate** row action to the Posts and Pages list screen. Clones the post content, all post meta, and taxonomy terms into a new draft — no configuration needed.
 
+[![Try it live in WordPress Playground](https://img.shields.io/badge/Try%20it%20live-WordPress%20Playground-3858e9?logo=wordpress&logoColor=white&style=for-the-badge)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/jdyach/duplicate-post-button/main/_playground/blueprint.json)
+
+The live demo runs a real WordPress site in your browser with this plugin, the [Fieldnote](https://github.com/jdyach/fieldnote) block theme and sample content. It opens the Posts screen. Hover any post and click **Duplicate** to get a draft copy with its categories, tags, featured image and custom fields. Nothing to install.
+
 ## Features
 
 - **One-click duplication** from the post/page list screen row actions
