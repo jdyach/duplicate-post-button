@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/jdyach/duplicate-post-button
  * Description:       Adds a one-click "Duplicate" row action to the Posts and Pages list screen. Clones the post content, meta, and taxonomy terms as a new draft.
  * Version:           1.0.0
- * Author:            Jacqui Dyachenko
+ * Author:            Jacqui Dyach
  * Author URI:        https://jacquid.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
